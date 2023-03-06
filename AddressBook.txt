@@ -1,0 +1,7 @@
+Welcome to All!
+
+In this project, We can perform CRUD operations on Contacts database
+Data is updated directly to WebAPI
+Dapper is used for storing contacts data
+Used HTML and CSS for the Design UI
+Used TypeScript for Backend
